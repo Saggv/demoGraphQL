@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.auth{
+    position: absolute;
+     width:50%;
+     margin:0 auto;
+     background:#f6f6f6;
+     padding: 3rem 2rem;
+     border-radius: 3px;
+     top:0;
+     left: 0;
+     transform: translate(50%, 50%);
+}
+
+.form-action{
+     margin-top:1.5rem;
+}
+
+.button{
+     outline: none;
+     background:#26a9dd;
+     border:none;
+     margin-right: 1rem;
+     padding:7px 5px;
+     border-radius: 5px;
+     color: #fff;
+     cursor: pointer;
+}
